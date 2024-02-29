@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dorothy-yao.github.io/al-folio/sitemap.xml
+Sitemap: https://dorothy-yao.github.io/sitemap.xml
