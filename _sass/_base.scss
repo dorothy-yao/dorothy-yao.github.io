@@ -723,6 +723,26 @@ footer.sticky-bottom {
         }
       }
 
+      abbr.badge-spotlight {
+        display: inline-block;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        margin-left: 0.5rem;
+        border-radius: 0.25rem; /* 跟 bootstrap badge 贴近 */
+        background-color: var(--global-theme-color); /* 默认同色系 */
+        color: white;
+        font-style: normal;
+        text-transform: none;
+      }
+
+      .acceptance-rate {
+        margin-left: 0.5rem;
+        font-size: 0.9rem;
+        font-weight: 500;
+        color: var(--global-theme-color); /* 跟 badge 色系一致 */
+        white-space: nowrap; /* 避免 3.2% 被换行拆开 */
+      }
+
       .title {
         font-weight: bolder;
       }

@@ -149,6 +149,12 @@
     {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
     <div class="periodical">
       {{ periodical | strip }}
+      {% if entry.award %}
+        <abbr class="badge badge-spotlight">{{ entry.award }}</abbr>
+      {% endif %}
+      {% if entry.acceptance %}
+        <span class="acceptance-rate">{{ entry.acceptance }}</span>
+      {% endif %}
     </div>
     <div class="periodical">
       {{ entry.note | strip }}

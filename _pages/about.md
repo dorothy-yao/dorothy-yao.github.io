@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Post-doc @ School of Nursing, PolyU.
+subtitle: Research Assistant Professor @ DAI, Lingnan University.
 
 profile:
   align: right
@@ -16,6 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Wenfang Yao is currently a Post-doctoral Fellow at the [School of Nursing](https://www.polyu.edu.hk/sn/), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under supervision of [Prof. Jing (Harry) Qin](https://www.polyu.edu.hk/en/sn/people/academic-staff/prof-harry-qin/). Prior to that, she obtained the Ph.D. degree from the [department of Applied Mathematics](https://www.polyu.edu.hk/ama/) at the Hong Kong Polytechnic University under the supervision of [Prof. Xiaoqi Yang](https://www.polyu.edu.hk/en/ama/people/academic-staff/prof-yang--xiaoqi/), and the Bachelor’s degree from the School of Mathematics at [Sun Yat-sen University](https://www.sysu.edu.cn/).
+Wenfang Yao is currently a Research Assistant Professor in the [Division of Artificial Intelligence](https://www.ln.edu.hk/sds/dai), [Lingnan University](https://www.ln.edu.hk/). 
+Prior to joining Lingnan University, she was a Postdoctoral Fellow working with  [Prof. Jing (Harry) Qin](https://www.polyu.edu.hk/en/sn/people/academic-staff/prof-harry-qin/) at the School of Nursing, The Hong Kong Polytechnic University.
+She received her Ph.D. in Applied Mathematics from The Hong Kong Polytechnic University under the supervision of [Prof. Xiaoqi Yang](https://www.polyu.edu.hk/en/ama/people/academic-staff/prof-yang--xiaoqi/) and her Bachelor’s degree in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/).
 
-She studied related Lipschitz-like property with projectional coderivatives in variational analysis for her Ph.D. research. Her research focus has recently transitioned to healthcare analytics. She is particularly interested in multi-modal fusion (e.g., fusing electronic healthcare records and chest X-ray images) for clinical predictions.
+Her research interests lie in healthcare analytics and clinical multimodal learning. Her work focuses on modeling heterogeneous and incomplete data to support disease diagnosis and progression analysis. She also studies optimization theory and its role in building reliable and robust machine learning models. Her work has appeared in leading venues such as *NeurIPS*, *AAAI*, *SIAM Journal on Optimization*, and *Mathematical Programming*. She has served as a reviewer for *NeurIPS* and *ICLR*, and journals in optimization and medical informatics.
